@@ -1,3 +1,7 @@
+/*
+Pide un número entero positivo al usuario y muestra cuántos dígitos tiene. No se debe usar funciones de conversión a texto.
+ */
+
 package TP1;
 
 import java.util.Scanner;

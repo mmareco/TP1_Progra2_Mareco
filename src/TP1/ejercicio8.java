@@ -1,3 +1,12 @@
+/*
+Simula un menú con operaciones bancarias:
+    1. Consultar saldo
+    2. Depositar dinero
+    3. Retirar dinero
+    4. Salir
+El saldo debe actualizarse según las operaciones del usuario.
+ */
+
 package TP1;
 import java.util.Scanner;
 

@@ -1,3 +1,7 @@
+/*
+Pide al usuario un número N. Calcula y muestra la suma de todos los números pares y la suma de los impares desde 1 hasta N inclusive.
+ */
+
 package TP1;
 
 import java.util.Scanner;

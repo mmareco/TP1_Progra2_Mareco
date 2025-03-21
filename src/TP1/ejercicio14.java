@@ -1,3 +1,7 @@
+/*
+El usuario debe ingresar una serie de notas. El ingreso termina al ingresar '-1'. Luego, se calcula el promedio e indica si está aprobado (promedio ≥6).
+ */
+
 package TP1;
 import java.util.Scanner;
 

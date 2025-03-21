@@ -1,3 +1,7 @@
+/*
+Pide al usuario un número N y muestra los primeros N términos de la serie de Fibonacci: 0, 1, 1, 2, 3, 5, 8...
+ */
+
 package TP1;
 import java.util.Scanner;
 

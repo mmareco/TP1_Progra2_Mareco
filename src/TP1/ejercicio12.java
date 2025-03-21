@@ -1,3 +1,7 @@
+/*
+Solicita una palabra y cuenta cuántas vocales y cuántas consonantes contiene. Ignorar espacios y signos.
+ */
+
 package TP1;
 import java.util.Scanner;
 

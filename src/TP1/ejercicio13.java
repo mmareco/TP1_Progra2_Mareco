@@ -1,3 +1,7 @@
+/*
+Pide un número entero y verifica si es capicúa (igual leído de izquierda a derecha que de derecha a izquierda).
+ */
+
 package TP1;
 import java.util.Scanner;
 

@@ -1,3 +1,7 @@
+/*
+ Solicita un número entero positivo y calcula su factorial (ej. 5! = 120) usando un 'for'.
+ */
+
 package TP1;
 import java.util.Scanner;
 

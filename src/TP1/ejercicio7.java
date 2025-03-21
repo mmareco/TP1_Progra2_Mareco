@@ -1,3 +1,7 @@
+/*
+El programa genera un número aleatorio entre 1 y 100. El usuario debe adivinarlo. El sistema indica si el número ingresado es mayor o menor que el secreto. Repetir hasta acertar.
+ */
+
 package TP1;
 import java.util.Scanner;
 import java.util.Random;

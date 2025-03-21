@@ -1,3 +1,12 @@
+/*
+Solicita una calificación numérica entre 1 y 10 e imprime una descripción textual:
+    - 1 a 3 → 'Insuficiente'
+    - 4 a 5 → 'Regular'
+    - 6 a 7 → 'Bueno'
+    - 8 a 9 → 'Muy Bueno'
+    - 10 → 'Excelente'
+ */
+
 package TP1;
 import java.util.Scanner;
 

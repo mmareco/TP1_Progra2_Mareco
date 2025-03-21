@@ -1,3 +1,7 @@
+/*
+Solicita un número entero y determina si es primo o no. Un número es primo si solo es divisible por 1 y por sí mismo.
+ */
+
 package TP1;
 
 import java.util.Scanner;

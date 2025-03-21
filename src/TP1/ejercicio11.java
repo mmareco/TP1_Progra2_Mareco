@@ -1,6 +1,9 @@
+/*
+: Simula un login donde el usuario tiene 3 intentos para ingresar una contraseña predefinida. Muestra un mensaje de acceso concedido o denegado según el caso.
+ */
+
 package TP1;
 import java.util.Scanner;
-
 
 public class ejercicio11 {
     public static void main(String[] args) {

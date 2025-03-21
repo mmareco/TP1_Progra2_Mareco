@@ -1,3 +1,7 @@
+/*
+Pide al usuario un número entero y muestra su tabla de multiplicar del 1 al 10,
+ */
+
 package TP1;
 
 import java.util.Scanner;
