@@ -51,7 +51,7 @@ Este repositorio contiene una serie de ejercicios en Java que abordan diversos c
 ## Integrantes del Grupo
 
 - **Nombre Completo:** Melissa Oriana Mareco
-  **Legajo:** 1148938
+- **Legajo:** 1148938
 
 ## Instrucciones para ejecutar el proyecto
 
